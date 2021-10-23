@@ -1,0 +1,50 @@
+[
+    {
+        "nev": "Volvo 262C",
+        "leiras": "1981",
+        "ar": 20000000,
+        "kep": "kepek/kep_1.jpeg"
+    },
+    {
+        "nev": "Volvo_1800_ES",
+        "leiras": "1963",
+        "ar": 23000000,
+        "kep": "kepek/kep_2.jpeg"
+    },
+    {
+        "nev": "Volvo_242_GT",
+        "leiras": "1972",
+        "ar": 23000000,
+        "kep": "kepek/kep_3.jpeg"
+    },
+    {
+        "nev": "Volvo_244_GL",
+        "leiras": "1973",
+        "ar": 22000000,
+        "kep": "kepek/kep_4.jpeg"
+    },
+    {
+        "nev": "Volvo_242_Group_A_racecar",
+        "leiras": "1974-s.",
+        "ar": 23000000,
+        "kep": "kepek/kep_5.jpeg"
+    },
+    {
+        "nev": "Volvo_245_DL",
+        "leiras": "1975-s évjárat",
+        "ar": 30000000,
+        "kep": "kepek/kep_6.jpeg"
+    },
+    {
+        "nev": "Volvo 264_GLE",
+        "leiras": "1981-s évjárat.",
+        "ar": 23000000,
+       "kep": "kepek/kep_7.jpeg"
+    },
+    {
+        "nev": "Volvo 262_C",
+        "leiras": "1983-s évjárat.",
+        "ar": 23000000,
+       "kep": "kepek/kep_8.jpeg"
+    }
+]
